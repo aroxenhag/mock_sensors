@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>mock_sensors</name>
+  <version>0.1.0</version>
+  <description>Mock sensor node for ROS 2 automation testing.</description>
+  <maintainer email="user@example.com">User</maintainer>
+  <license>Apache-2.0</license>
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+</package>
